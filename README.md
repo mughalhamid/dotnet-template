@@ -1,0 +1,2 @@
+# dotnet-template
+.NET-Template
